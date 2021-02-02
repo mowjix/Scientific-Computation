@@ -1,0 +1,6 @@
+First and family name:
+	Mojtaba Zolfaghari
+Student ID:
+	95143017
+Title:
+	Final project of Scientific Computation course using California housing dataset
